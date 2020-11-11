@@ -1,7 +1,12 @@
 {
   "headers": {
+    "/*": {
+      "Access-Control-Allow-Origin": "*",
+      "X-Author": "vladakusok"
+    }
     "/login/": {
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/html; charset=UTF-8"
     },
     "/sample/": {
       "Access-Control-Allow-Origin": "*",
