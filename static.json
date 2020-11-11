@@ -3,7 +3,7 @@
     "/*": {
       "Access-Control-Allow-Origin": "*",
       "X-Author": "vladakusok"
-    }
+    },
     "/login/": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/html; charset=UTF-8"
